@@ -1,0 +1,401 @@
+,Alloy System,Composition_Formula,Processing Condition,SS or IM,Phases,# EL,# Phases,Property,References,Class
+0,AgAlCoCrCuNi,AgAlCoCrCuNi,AC,SS+IM,2FCC+B2,6,3,H,[1],3d_Transition_Metal_Alloy_Family
+1,AlAuCoCrCuNi,AlAuCoCrCuNi,AC,SS+IM,FCC+L10,6,2,H,[1],3d_Transition_Metal_Alloy_Family
+2,AlCoCrCuFe,AlCoCrCu0.5Fe,AC,SS+IM,FCC+B2,5,2,H,[2],3d_Transition_Metal_Alloy_Family
+3,AlCoCrCuFe,AlCoCrCuFe,MA+SPS,SS+IM,FCC+B2+s,5,3,H,[3],3d_Transition_Metal_Alloy_Family
+4,AlCoCrCuFeMnNi,AlCoCrCuFeMnNi,AC,SS+IM,FCC+2B2,7,3,M,[4],3d_Transition_Metal_Alloy_Family
+5,AlCoCrCuFeMnNiTiV,Al0.125CoCrCuFeMnNiTiV,AC,SS,BCC+FCC,9,2,M,[5],3d_Transition_Metal_Alloy_Family
+6,AlCoCrCuFeMnNiTiV,Al0.25CoCrCuFeMnNiTiV,AC,SS,BCC,9,1,M,[5],3d_Transition_Metal_Alloy_Family
+7,AlCoCrCuFeMnNiTiV,Al0.67CoCrCuFeMnNiTiV,AC,SS+IM,BCC+D022+IM,9,3,M,[5],3d_Transition_Metal_Alloy_Family
+8,AlCoCrCuFeMoNi,AlCoCrCuFeMo0.2Ni,AC,SS,BCC+FCC,7,2,M,[6],3d_Transition_Metal_Alloy_Family
+13,AlCoCrCuFeNi,Al0.25CoCrCu0.75FeNi,AC,SS,FCC,6,1,M,[7],3d_Transition_Metal_Alloy_Family
+14,AlCoCrCuFeNi,Al0.3CoCrCu0.5FeNi,AC+1100C/24h/FC,SS+IM,FCC+L12,6,2,M,[8],3d_Transition_Metal_Alloy_Family
+15,AlCoCrCuFeNi,Al0.3CoCrCuFeNi,AC,SS,FCC,6,1,"H, M",[9],3d_Transition_Metal_Alloy_Family
+16,AlCoCrCuFeNi,Al0.5CoCrCu0.5FeNi,AC,SS,2FCC,6,2,H,[2],3d_Transition_Metal_Alloy_Family
+17,AlCoCrCuFeNi,Al0.5CoCrCu0.5FeNi2,AC,SS+IM,FCC+L12,6,2,H,[11],3d_Transition_Metal_Alloy_Family
+18,AlCoCrCuFeNi,Al0.5CoCrCuFeNi,AC,SS,FCC,6,1,"H, M",[9],3d_Transition_Metal_Alloy_Family
+19,AlCoCrCuFeNi,Al0.75CoCrCu0.25FeNi,AC,SS,BCC+FCC,6,2,M,[7],3d_Transition_Metal_Alloy_Family
+20,AlCoCrCuFeNi,Al0.8CoCrCuFeNi,AC,SS,BCC+2FCC,6,3,M,[23],3d_Transition_Metal_Alloy_Family
+21,AlCoCrCuFeNi,AlCo0.5CrCu0.5FeNi,AC,IM,B2,6,1,H,[2],3d_Transition_Metal_Alloy_Family
+22,AlCoCrCuFeNi,AlCo0.5CrCuFeNi,AC,SS+IM,BCC+FCC+B2,6,3,H,[17],3d_Transition_Metal_Alloy_Family
+23,AlCoCrCuFeNi,AlCoCr0.5Cu0.5FeNi,AC,SS+IM,BCC+FCC+B2,6,3,H,[2],3d_Transition_Metal_Alloy_Family
+24,AlCoCrCuFeNi,AlCoCr0.5CuFeNi,AC,SS+IM,BCC+FCC+B2,6,3,H,[17],3d_Transition_Metal_Alloy_Family
+25,AlCoCrCuFeNi,AlCoCrCu0.25FeNi,AC,SS,BCC,6,1,H,[24],3d_Transition_Metal_Alloy_Family
+26,AlCoCrCuFeNi,AlCoCrCu0.5Fe0.5Ni,AC,SS,BCC+FCC,6,2,H,[2],3d_Transition_Metal_Alloy_Family
+27,AlCoCrCuFeNi,AlCoCrCu0.5FeNi,AC,SS+IM,BCC+B2,6,2,H,[17],3d_Transition_Metal_Alloy_Family
+28,AlCoCrCuFeNi,AlCoCrCu0.5FeNi1.5,AC,SS,BCC+FCC,6,2,H,[2],3d_Transition_Metal_Alloy_Family
+29,AlCoCrCuFeNi,AlCoCrCu0.5FeNi2,AC,SS,BCC+FCC,6,2,H,[2],3d_Transition_Metal_Alloy_Family
+30,AlCoCrCuFeNi,AlCoCrCu0.5FeNi2.5,AC,SS+IM,BCC+L12,6,2,H,[2],3d_Transition_Metal_Alloy_Family
+31,AlCoCrCuFeNi,AlCoCrCu0.5FeNi3,AC,IM,L12,6,1,H,[2],3d_Transition_Metal_Alloy_Family
+32,AlCoCrCuFeNi,AlCoCrCu0.5Fe1.5Ni,AC,SS+IM,FCC+B2,6,2,H,[2],3d_Transition_Metal_Alloy_Family
+33,AlCoCrCuFeNi,AlCoCrCu0.5Fe2Ni,AC,SS+IM,FCC+B2,6,2,H,[2],3d_Transition_Metal_Alloy_Family
+34,AlCoCrCuFeNi,AlCoCrCuFe0.5Ni,AC,SS+IM,BCC+FCC+B2,6,3,H,[17],3d_Transition_Metal_Alloy_Family
+35,AlCoCrCuFeNi,AlCoCrCuFeNi0.5,AC,SS+IM,BCC+FCC+B2,6,3,H,[17],3d_Transition_Metal_Alloy_Family
+36,AlCoCrCuFeNi,AlCoCrCuFeNi,AC,SS,FCC+B2,6,2,"H, M",[9],3d_Transition_Metal_Alloy_Family
+37,AlCoCrCuFeNi,AlCoCr1.5Cu0.5FeNi,AC,SS,BCC+FCC,6,2,"H, M",[2],3d_Transition_Metal_Alloy_Family
+38,AlCoCrCuFeNi,AlCoCr2Cu0.5FeNi,AC,SS+IM,FCC+B2,6,2,"H, M",[2],3d_Transition_Metal_Alloy_Family
+39,AlCoCrCuFeNi,AlCo1.5CrCu0.5FeNi,AC,SS+IM,FCC+B2,6,2,"H, M",[2],3d_Transition_Metal_Alloy_Family
+40,AlCoCrCuFeNi,AlCo2CrCu0.5FeNi,AC,SS,BCC+FCC,6,2,"H, M",[2],3d_Transition_Metal_Alloy_Family
+41,AlCoCrCuFeNi,AlCo3CrCu0.5FeNi,AC,SS,BCC+FCC,6,2,"H, M",[2],3d_Transition_Metal_Alloy_Family
+42,AlCoCrCuFeNi,AlCo3.5CrCu0.5FeNi,AC,SS,FCC,6,1,"H, M",[2],3d_Transition_Metal_Alloy_Family
+43,AlCoCrCuFeNi,Al1.3CoCrCuFeNi,AC,SS+IM,FCC+B2,6,2,"H, M",[9],3d_Transition_Metal_Alloy_Family
+44,AlCoCrCuFeNi,Al1.4Co0.9Cr1.4Cu0.5Fe0.9Ni,AC,SS+IM,BCC+B2+Unk,6,3,H,[11],3d_Transition_Metal_Alloy_Family
+45,AlCoCrCuFeNi,Al1.5CoCrCu0.5FeNi,AC,IM,B2,6,1,H,[2],3d_Transition_Metal_Alloy_Family
+46,AlCoCrCuFeNi,Al1.5CoCrCuFeNi,AC,SS+IM,FCC+B2,6,2,"H, M",[9],3d_Transition_Metal_Alloy_Family
+47,AlCoCrCuFeNi,Al1.8CoCrCuFeNi,AC,SS+IM,FCC+B2,6,2,"H, M",[9],3d_Transition_Metal_Alloy_Family
+48,AlCoCrCuFeNi,Al2CoCrCu0.5FeNi,AC,IM,B2,6,1,"H, M",[2],3d_Transition_Metal_Alloy_Family
+49,AlCoCrCuFeNi,Al2CoCrCuFeNi,AC,SS+IM,BCC+FCC,6,2,"H, M",[9],3d_Transition_Metal_Alloy_Family
+50,AlCoCrCuFeNi,Al2.3CoCrCuFeNi,AC,SS+IM,FCC+B2,6,2,"H, M",[9],3d_Transition_Metal_Alloy_Family
+51,AlCoCrCuFeNi,Al2.5CoCrCuFeNi,AC,SS+IM,FCC+B2,6,2,"H, M",[9],3d_Transition_Metal_Alloy_Family
+52,AlCoCrCuFeNi,Al2.8CoCrCuFeNi,AC,IM,B2,6,1,"H, M",[9],3d_Transition_Metal_Alloy_Family
+53,AlCoCrCuFeNi,Al3CoCrCuFeNi,AC,IM,B2,6,1,"H, M",[9],3d_Transition_Metal_Alloy_Family
+54,AlCoCrCuFeNiSi,AlCoCrCu0.5FeNiSi,AC,SS,AM,7,1,MT,[32],3d_Transition_Metal_Alloy_Family
+55,AlCoCrCuFeNiSi,AlCoCrCuFeNiSi,AC,SS,BCC+FCC,7,2,H,[25],3d_Transition_Metal_Alloy_Family
+56,AlCoCrCuFeNiTi,Al0.25CoCrCu0.75FeNiTi0.5,AC,SS,2FCC,7,2,M,[33],3d_Transition_Metal_Alloy_Family
+57,AlCoCrCuFeNiTi,Al0.5CoCrCu0.5FeNiTi0.5,AC,SS,2BCC+FCC,7,3,M,[33],3d_Transition_Metal_Alloy_Family
+58,AlCoCrCuFeNiTi,Al0.5CoCrCuFeNiTi0.2,AC,SS,FCC,7,1,"H, W ",[15],3d_Transition_Metal_Alloy_Family
+59,AlCoCrCuFeNiTi,Al0.5CoCrCuFeNiTi0.4,AC,SS,2BCC+FCC,7,3,"H, W ",[15],3d_Transition_Metal_Alloy_Family
+60,AlCoCrCuFeNiTi,Al0.5CoCrCuFeNiTi0.6,AC,SS,2BCC+FCC,7,3,"H, W ",[15],3d_Transition_Metal_Alloy_Family
+61,AlCoCrCuFeNiTi,Al0.5CoCrCuFeNiTi0.8,AC,SS+IM,2BCC+FCC+s,7,4,"H, W ",[15],3d_Transition_Metal_Alloy_Family
+62,AlCoCrCuFeNiTi,Al0.5CoCrCuFeNiTi,AC,SS+IM,2BCC+FCC+s,7,4,"H, W",[15],3d_Transition_Metal_Alloy_Family
+63,AlCoCrCuFeNiTi,Al0.5CoCrCuFeNiTi1.2,AC,SS+IM,2BCC+FCC+NiTi2+s,7,5,"H, W",[15],3d_Transition_Metal_Alloy_Family
+64,AlCoCrCuFeNiTi,Al0.5CoCrCuFeNiTi1.4,AC,SS+IM,BCC+FCC+B2+NiTi2,7,4,"H, W",[15],3d_Transition_Metal_Alloy_Family
+65,AlCoCrCuFeNiTi,Al0.5CoCrCuFeNiTi1.6,AC,SS+IM,BCC+FCC+B2+NiTi2,7,4,"H, W",[15],3d_Transition_Metal_Alloy_Family
+66,AlCoCrCuFeNiTi,Al0.5CoCrCuFeNiTi1.8,AC,SS+IM,BCC+FCC+B2+NiTi2,7,4,"H, W",[15],3d_Transition_Metal_Alloy_Family
+67,AlCoCrCuFeNiTi,Al0.5CoCrCuFeNiTi2.0,AC,SS+IM,BCC+FCC+B2+NiTi2,7,4,"H, W",[15],3d_Transition_Metal_Alloy_Family
+68,AlCoCrCuFeNiTi,Al0.75CoCrCu0.25FeNiTi0.5,AC,SS,2BCC,7,2,M,[33],3d_Transition_Metal_Alloy_Family
+69,AlCoCrCuFeNiTi,AlCoCrCu0.25FeNiTi0.5,AC,SS,2BCC,7,2,M,[34],3d_Transition_Metal_Alloy_Family
+70,AlCoCrCuFeNiTi,AlCoCrCu0.5FeNiTi0.5,AC,SS,2BCC,7,2,M,[34],3d_Transition_Metal_Alloy_Family
+71,AlCoCrCuFeNiTi,AlCoCrCuFeNiTi,AC,SS+IM,BCC+FCC+B2,7,3,M,[4],3d_Transition_Metal_Alloy_Family
+72,AlCoCrCuFeNiTiMnV,Al0.125CoCrCuFeNiTiMnV,AC,SS,BCC+FCC,9,2,M,[5],3d_Transition_Metal_Alloy_Family
+73,AlCoCrCuFeNiTiMnV,Al0.25CoCrCuFeNiTiMnV,AC,SS,BCC,9,1,M,[5],3d_Transition_Metal_Alloy_Family
+74,AlCoCrCuFeNiTiMnV,Al0.67CoCrCuFeNiTiMnV,AC,SS,BCC+D022+Unk,9,3,M,[5],3d_Transition_Metal_Alloy_Family
+75,AlCoCrCuFeNiTiV,AlCoCrCuFeNiTiV,AC,SS,BCC+FCC,8,2,H,[12],3d_Transition_Metal_Alloy_Family
+76,AlCoCrCuFeNiV,Al0.5CoCrCuFeNiV0.2,AC,SS,2FCC,7,2,"H, W",[16],3d_Transition_Metal_Alloy_Family
+77,AlCoCrCuFeNiV,Al0.5CoCrCuFeNiV0.4,AC,SS,BCC+FCC,7,2,"H, W",[16],3d_Transition_Metal_Alloy_Family
+78,AlCoCrCuFeNiV,Al0.5CoCrCuFeNiV0.6,AC,SS+IM,BCC+FCC+s,7,3,"H, W",[16],3d_Transition_Metal_Alloy_Family
+79,AlCoCrCuFeNiV,Al0.5CoCrCuFeNiV0.8,AC,SS+IM,BCC+FCC+s,7,3,"H, W",[16],3d_Transition_Metal_Alloy_Family
+80,AlCoCrCuFeNiV,Al0.5CoCrCuFeNiV,AC,SS+IM,BCC+FCC+s,7,3,"H, W",[16],3d_Transition_Metal_Alloy_Family
+81,AlCoCrCuFeNiV,Al0.5CoCrCuFeNiV1.2,AC,SS,BCC+FCC,7,2,"H, W",[16],3d_Transition_Metal_Alloy_Family
+82,AlCoCrCuFeNiV,Al0.5CoCrCuFeNiV1.4,AC,SS,BCC+FCC,7,2,"H, W",[16],3d_Transition_Metal_Alloy_Family
+83,AlCoCrCuFeNiV,Al0.5CoCrCuFeNiV1.6,AC,SS,BCC+FCC,7,2,"H, W",[16],3d_Transition_Metal_Alloy_Family
+84,AlCoCrCuFeNiV,Al0.5CoCrCuFeNiV1.8,AC,SS,BCC+FCC,7,2,"H, W",[16],3d_Transition_Metal_Alloy_Family
+85,AlCoCrCuFeNiV,Al0.5CoCrCuFeNiV2,AC,SS,BCC+FCC,7,2,"H, W",[16],3d_Transition_Metal_Alloy_Family
+86,AlCoCrCuFeNiV,AlCoCrCuFeNiV,AC,SS,BCC+FCC,7,2,"H, W",[4],3d_Transition_Metal_Alloy_Family
+87,AlCoCrCuNi,AlCoCrCu0.5Ni,AC,SS,BCC+FCC+B2,5,3,H,[12],3d_Transition_Metal_Alloy_Family
+88,AlCoCrCuNi,AlCoCrCuNi,AC,SS,BCC+FCC,5,2,H,[25],3d_Transition_Metal_Alloy_Family
+89,AlCoCrCuNiTi,AlCoCrCuNiTi,AC,SS,2BCC+FCC,6,3,M,[35],3d_Transition_Metal_Alloy_Family
+90,AlCoCrCuNiTiY,AlCoCrCuNiTiY0.5,AC,SS+IM,BCC+FCC+C15+L21,7,4,M,[35],3d_Transition_Metal_Alloy_Family
+91,AlCoCrCuNiTiY,AlCoCrCuNiTiY0.8,AC,SS+IM,BCC+C15+L21,7,3,M,[35],3d_Transition_Metal_Alloy_Family
+92,AlCoCrCuNiTiY,AlCoCrCuNiTiY,AC,SS+IM,BCC+C15+L21+Unk,7,4,M,[35],3d_Transition_Metal_Alloy_Family
+93,AlCoCrFeMnNi,Al0.02CoCrFeMnNi,AC,SS,FCC,6,1,"H, MT",[36],3d_Transition_Metal_Alloy_Family
+94,AlCoCrFeMnNi,Al0.03CoCrFeMnNi,AC,SS,FCC,6,1,"H, MT",[36],3d_Transition_Metal_Alloy_Family
+95,AlCoCrFeMnNi,Al0.04CoCrFeMnNi,AC,SS,FCC,6,1,"H, MT",[36],3d_Transition_Metal_Alloy_Family
+96,AlCoCrFeMnNi,Al0.08CoCrFeMnNi,AC,SS,FCC,6,1,"H, MT",[36],3d_Transition_Metal_Alloy_Family
+97,AlCoCrFeMnNi,Al0.09CoCrFeMnNi,AC,SS+IM,BCC+FCC+B2,6,3,"H, MT",[36],3d_Transition_Metal_Alloy_Family
+98,AlCoCrFeMnNi,Al0.10CoCrFeMnNi,AC,SS+IM,BCC+FCC+B2,6,3,"H, MT",[36],3d_Transition_Metal_Alloy_Family
+99,AlCoCrFeMnNi,Al0.11CoCrFeMnNi,AC,SS+IM,BCC+FCC+B2,6,3,"H, MT",[36],3d_Transition_Metal_Alloy_Family
+100,AlCoCrFeMnNi,Al0.12CoCrFeMnNi,AC,SS+IM,BCC+FCC+B2,6,3,"H, MT",[36],3d_Transition_Metal_Alloy_Family
+101,AlCoCrFeMnNi,Al0.14CoCrFeMnNi,AC,SS+IM,BCC+FCC+B2,6,3,"H, MT",[36],3d_Transition_Metal_Alloy_Family
+102,AlCoCrFeMnNi,Al0.15CoCrFeMnNi,AC,SS+IM,BCC+FCC+B2,6,3,"H, MT",[36],3d_Transition_Metal_Alloy_Family
+103,AlCoCrFeMnNi,Al0.16CoCrFeMnNi,AC,SS+IM,BCC+B2,6,2,"H, MT",[36],3d_Transition_Metal_Alloy_Family
+104,AlCoCrFeMnNi,Al0.18CoCrFeMnNi,AC,SS+IM,BCC+B2,6,2,"H, MT",[36],3d_Transition_Metal_Alloy_Family
+105,AlCoCrFeMnNi,Al0.19CoCrFeMnNi,AC,SS+IM,BCC+B2,6,2,"H, MT",[36],3d_Transition_Metal_Alloy_Family
+106,AlCoCrFeMnNi,Al0.25CoCrFeMnNi,AC,SS+IM,BCC+B2,6,2,"H, MT",[36],3d_Transition_Metal_Alloy_Family
+107,AlCoCrFeMnNiV,Al0.4CoCrFeMnNiV,AC+700C/20h,IM,σ,7,1,H,[37],3d_Transition_Metal_Alloy_Family
+108,AlCoCrFeMnNiV,AlCo0.5Cr0.5Fe0.5MnNiV0.5,AC+700C/20h,SS,BCC,7,1,H,[37],3d_Transition_Metal_Alloy_Family
+109,AlCoCrFeMnNiV,AlCo0.5Cr0.5Fe0.5MnNiV,AC+700C/20h,SS,BCC,7,1,H,[37],3d_Transition_Metal_Alloy_Family
+110,AlCoCrFeMnNiV,AlCo1.5Cr2Fe1.5Mn2NiV,AC+700C/20h,IM,σ,7,1,H,[37],3d_Transition_Metal_Alloy_Family
+111,AlCoCrFeMoNi,Al0.3CoCrFeMo0.1Ni,AC,SS,FCC,6,1,H,[38],3d_Transition_Metal_Alloy_Family
+112,AlCoCrFeMoNi,AlCo0.5CrFeMo0.5Ni,AC,SS+IM,BCC+B2+σ,6,3,H,[40],3d_Transition_Metal_Alloy_Family
+113,AlCoCrFeMoNi,AlCoCr0.5FeMo0.5Ni,AC,IM,B2+σ,6,2,H,[41],3d_Transition_Metal_Alloy_Family
+114,AlCoCrFeMoNi,AlCoCrFe0.6Mo0.5Ni,AC,IM,B2+σ,6,2,"H, W",[42],3d_Transition_Metal_Alloy_Family
+115,AlCoCrFeMoNi,AlCoCrFeMo0.1Ni,AC,SS,BCC,6,1,"DSC, M",[43],3d_Transition_Metal_Alloy_Family
+116,AlCoCrFeMoNi,AlCoCrFeMo0.2Ni,AC,SS+IM,BCC+IM,6,2,"DSC, M",[43],3d_Transition_Metal_Alloy_Family
+117,AlCoCrFeMoNi,AlCoCrFeMo0.3Ni,AC,SS+IM,BCC+IM,6,2,"DSC, M",[43],3d_Transition_Metal_Alloy_Family
+118,AlCoCrFeMoNi,AlCoCrFeMo0.4Ni,AC,SS+IM,BCC+IM,6,2,"DSC, M",[43],3d_Transition_Metal_Alloy_Family
+119,AlCoCrFeMoNi,AlCoCrFeMo0.5Ni,AC,SS+IM,BCC+IM,6,2,"DSC, M",[43],3d_Transition_Metal_Alloy_Family
+120,AlCoCrFeMoNi,AlCoCrFe1.5Mo0.5Ni,AC,SS+IM,BCC+σ,6,2,"H, W",[42],3d_Transition_Metal_Alloy_Family
+121,AlCoCrFeMoNi,AlCoCrFe2Mo0.5Ni,AC,SS+IM,BCC+σ,6,2,"H, W",[42],3d_Transition_Metal_Alloy_Family
+122,AlCoCrFeMoNi,AlCoCr1.5FeMo0.5Ni,AC,IM,B2+σ,6,2,H,[41],3d_Transition_Metal_Alloy_Family
+123,AlCoCrFeMoNi,AlCoCr2FeMo0.5Ni,AC,IM,B2+σ,6,2,H,[41],3d_Transition_Metal_Alloy_Family
+124,AlCoCrFeMoNi,AlCo1.5CrFeMo0.5Ni,AC,SS+IM,BCC+B2+σ,6,3,H,[40],3d_Transition_Metal_Alloy_Family
+125,AlCoCrFeMoNi,AlCo2CrFeMo0.5Ni,AC,SS+IM,BCC+FCC+σ,6,3,H,[40],3d_Transition_Metal_Alloy_Family
+126,AlCoCrFeNbNi,AlCoCrFeNb0.1Ni,AC,SS,BCC+C14,6,2,"H, M, MAG",[44],3d_Transition_Metal_Alloy_Family
+127,AlCoCrFeNbNi,AlCoCrFeNb0.25Ni,AC,SS+IM,BCC+C14,6,2,"H, M, MAG",[44],3d_Transition_Metal_Alloy_Family
+128,AlCoCrFeNbNi,AlCoCrFeNb0.5Ni,AC,SS+IM,BCC+C14,6,2,"H, M, MAG",[44],3d_Transition_Metal_Alloy_Family
+129,AlCoCrFeNbNi,AlCoCrFeNb0.75Ni,AC,SS+IM,BCC+C14,6,2,"H, M, MAG",[44],3d_Transition_Metal_Alloy_Family
+130,AlCoCrFeNi,Al0.1CoCrFeNi,AC,SS,FCC,5,1,H,[46],3d_Transition_Metal_Alloy_Family
+131,AlCoCrFeNi,Al0.25CoCrFeNi,AC,SS,FCC,5,1,H,[47],3d_Transition_Metal_Alloy_Family
+132,AlCoCrFeNi,Al0.3CoCrFeNi,AC,SS,FCC+L12,5,2,MT,[49],3d_Transition_Metal_Alloy_Family
+133,AlCoCrFeNi,Al0.3CoCr2FeNi,AC+700C/20h,SS+IM,BCC+FCC+σ,5,3,H,[37],3d_Transition_Metal_Alloy_Family
+134,AlCoCrFeNi,Al0.375CoCrFeNi,AC,SS,FCC,5,1,H,[47],3d_Transition_Metal_Alloy_Family
+135,AlCoCrFeNi,Al0.4CoCrFeNi,AC,SS,FCC,5,1,H,[46],3d_Transition_Metal_Alloy_Family
+136,AlCoCrFeNi,Al0.44CoCrFeNi,AC,SS+IM,FCC+B2+Unk,5,3,OX,[50],3d_Transition_Metal_Alloy_Family
+137,AlCoCrFeNi,Al0.5CoCrFeNi,AC,SS,2FCC,5,2,OX,[24],3d_Transition_Metal_Alloy_Family
+138,AlCoCrFeNi,Al0.7CoCrFeNi,AC,SS+IM,BCC+FCC+B2,5,3,H,[46],3d_Transition_Metal_Alloy_Family
+139,AlCoCrFeNi,Al0.75CoCrFeNi,AC+1100C/24h/WQ,SS,FCC+B2,5,2,"CTE, D, R",[48],3d_Transition_Metal_Alloy_Family
+140,AlCoCrFeNi,Al0.8CoCrFeNi,AC,SS+IM,BCC+FCC+B2,5,3,H,[46],3d_Transition_Metal_Alloy_Family
+141,AlCoCrFeNi,Al0.875CoCrFeNi,AC,SS,BCC,5,1,H,[47],3d_Transition_Metal_Alloy_Family
+142,AlCoCrFeNi,Al0.9CoCrFeNi,AC,SS+IM,BCC+B2,5,2,H,[46],3d_Transition_Metal_Alloy_Family
+143,AlCoCrFeNi,AlCoCrFeNi,AC,SS,B2,5,1,M,[52],3d_Transition_Metal_Alloy_Family
+144,AlCoCrFeNi,AlCoCrFeNi2.1,AC,SS+IM,FCC+B2,5,2,"DSC, MT",[60],3d_Transition_Metal_Alloy_Family
+145,AlCoCrFeNi,AlCoCr2FeNi,AC,IM,B2+L12,5,2,"DSC, MT",[54],3d_Transition_Metal_Alloy_Family
+146,AlCoCrFeNi,Al1.2CoCrFeNi,AC,SS+IM,BCC+B2,5,2,H,[46],3d_Transition_Metal_Alloy_Family
+147,AlCoCrFeNi,Al1.25CoCrFeNi,AC+1100C/24h/WQ,SS+IM,B2,5,1,"CTE, D, R",[48],3d_Transition_Metal_Alloy_Family
+148,AlCoCrFeNi,Al1.5CoCrFeNi,AC,SS+IM,B2,5,1,H,[54],3d_Transition_Metal_Alloy_Family
+149,AlCoCrFeNi,Al1.8CoCrFeNi,AC,SS+IM,BCC+B2,5,2,H,[46],3d_Transition_Metal_Alloy_Family
+150,AlCoCrFeNi,Al2CoCrFeNi,AC,SS+IM,B2,5,1,H,[54],3d_Transition_Metal_Alloy_Family
+151,AlCoCrFeNi,Al2.08CoCrFeNi,AC,SS+IM,BCC+B2,5,2,R,[61],3d_Transition_Metal_Alloy_Family
+152,AlCoCrFeNi,Al2.5CoCrFeNi,AC,SS+IM,B2,5,1,R,[54],3d_Transition_Metal_Alloy_Family
+153,AlCoCrFeNi,Al3CoCrFeNi,AC,IM,B2,5,1,"H, D",[54],3d_Transition_Metal_Alloy_Family
+154,AlCoCrFeNiSi,AlCoCrFeNiSi0.2,AC,SS,BCC,6,1,M,[57],3d_Transition_Metal_Alloy_Family
+155,AlCoCrFeNiSi,AlCoCrFeNiSi0.4,AC,SS,2BCC,6,2,M,[57],3d_Transition_Metal_Alloy_Family
+156,AlCoCrFeNiSi,AlCoCrFeNiSi0.6,AC,SS+IM,2BCC+IM,6,3,M,[57],3d_Transition_Metal_Alloy_Family
+157,AlCoCrFeNiSi,AlCoCrFeNiSi0.8,AC,SS+IM,2BCC+IM,6,3,M,[57],3d_Transition_Metal_Alloy_Family
+158,AlCoCrFeNiSi,AlCoCrFeNiSi,AC,SS+IM,2BCC+IM,6,3,M,[57],3d_Transition_Metal_Alloy_Family
+159,AlCoCrFeNiTi,Al0.2Co1.5CrFeNi1.5Ti0.5,AC+1100C/4h/AC+800C/10h/AC,SS,FCC,6,1,"H, W",[62],3d_Transition_Metal_Alloy_Family
+160,AlCoCrFeNiTi,Al0.2Co1.5CrFeNi1.5Ti,AC+1100C/4h/AC+800C/10h/AC,SS+IM,FCC+D024,6,2,"H, W",[62],3d_Transition_Metal_Alloy_Family
+161,AlCoCrFeNiTi,Al0.3CoCrFeNiTi0.1,AC,SS,FCC,6,1,H,[39],3d_Transition_Metal_Alloy_Family
+162,AlCoCrFeNiTi,Al0.5CoCrFeNiTi,AC,SS+IM,BCC+B2+C14,6,3,M,[63],3d_Transition_Metal_Alloy_Family
+163,AlCoCrFeNiTi,Al0.6CoCrFeNiTi0.4,MA+SPS,SS,2FCC+D022,6,3,"DSC, H, M",[65],3d_Transition_Metal_Alloy_Family
+164,AlCoCrFeNiTi,AlCoCrFeNiTi0.5,AC,SS,2BCC+B2,6,2,M,[52],3d_Transition_Metal_Alloy_Family
+165,AlCoCrFeNiTi,AlCoCrFeNiTi,AC,SS+IM,2BCC+B2,6,2,M,[52],3d_Transition_Metal_Alloy_Family
+166,AlCoCrFeNiTi,AlCoCrFeNiTi1.5,AC,SS+IM,BCC+B2+C14,6,3,M,[52],3d_Transition_Metal_Alloy_Family
+167,AlCoCrFeNiTi,AlCo1.5CrFeNiTi0.5,AC,SS,BCC+FCC,6,2,M,[66],3d_Transition_Metal_Alloy_Family
+168,AlCoCrFeNiTi,AlCo2CrFeNiTi0.5,AC,SS,BCC+FCC,6,2,M,[66],3d_Transition_Metal_Alloy_Family
+169,AlCoCrFeNiTi,AlCo3CrFeNiTi0.5,AC,SS,BCC+FCC,6,2,M,[66],3d_Transition_Metal_Alloy_Family
+170,AlCoCrFeNiTi,Al1.5CoCrFeNiTi,AC,SS+IM,BCC+B2,6,2,M,[63],3d_Transition_Metal_Alloy_Family
+171,AlCoCrFeNiTi,Al2CoCrFeNiTi,AC,SS+IM,BCC+B2,6,2,M,[63],3d_Transition_Metal_Alloy_Family
+172,AlCoCrNiSi,Al0.43CoCr0.29NiSi0.14,AC,SS+IM,FCC+L10+L12,5,3,OX,[50],3d_Transition_Metal_Alloy_Family
+173,AlCoCrNiSi,Al0.8CoCrNiSi0.2,AC,SS+IM,BCC+B2+σ,5,3,OX,[50],3d_Transition_Metal_Alloy_Family
+174,AlCoCuFeNdNi,AlCoCuFeNdNi,AC,IM,Unk,6,3,OX,[31],3d_Transition_Metal_Alloy_Family
+175,AlCoCuFeNi,AlCo0.2CuFeNi,AC,SS+IM,FCC+B2,5,2,"H, M",[67],3d_Transition_Metal_Alloy_Family
+176,AlCoCuFeNi,AlCo0.5CuFeNi,AC,SS+IM,FCC+B2,5,2,"H, M",[67],3d_Transition_Metal_Alloy_Family
+177,AlCoCuFeNi,AlCoCu0.5FeNi,AC,SS,BCC+FCC,5,2,"H, M",[2],3d_Transition_Metal_Alloy_Family
+178,AlCoCuFeNi,AlCoCuFeNi,AC,SS,FCC+B2,5,2,"H, M",[67],3d_Transition_Metal_Alloy_Family
+179,AlCoCuFeNi,AlCo1.5CuFeNi,AC,SS+IM,FCC+B2,5,2,"H, M",[67],3d_Transition_Metal_Alloy_Family
+180,AlCoCuFeNi,AlCo2CuFeNi,AC,SS+IM,FCC+B2,5,2,"H, M",[67],3d_Transition_Metal_Alloy_Family
+181,AlCoCuFeNi,AlCo3CuFeNi,AC,SS,FCC,5,1,"H, M",[67],3d_Transition_Metal_Alloy_Family
+182,AlCoCuFeNiSi,AlCoCuFeNiSi,AC,SS,BCC+FCC,6,2,"H, M",[31],3d_Transition_Metal_Alloy_Family
+183,AlCoCuFeNiTi,AlCoCuFeNiTi,AC,SS,BCC+FCC+B2,6,3,"H, M",[31],3d_Transition_Metal_Alloy_Family
+184,AlCoCuFeNiZr,AlCoCuFeNiZr,AC,SS+IM,FCC+B2+D2b,6,3,"H, M",[31],3d_Transition_Metal_Alloy_Family
+185,AlCoCuNi,AlCoCuNi,AC,SS,BCC+FCC,4,2,"H, M",[25],3d_Transition_Metal_Alloy_Family
+186,AlCoCuNiTiZn,AlCoCuNiTiZn,MA+VHP,SS,BCC+2FCC,6,3,H,[69],3d_Transition_Metal_Alloy_Family
+187,AlCoFeMoNi,AlCoFeMo0.5Ni,AC,IM,B2+σ,5,2,H,[41],3d_Transition_Metal_Alloy_Family
+188,AlCoFeNi,Al0.25CoFeNi,AC,SS,FCC,4,1,"H, M, MAG, R",[70],3d_Transition_Metal_Alloy_Family
+189,AlCoFeNi,Al0.5CoFeNi,AC,SS+IM,FCC+B2,4,2,"H, M, MAG, R",[70],3d_Transition_Metal_Alloy_Family
+190,AlCoFeNi,Al0.75CoFeNi,AC,SS+IM,FCC+B2,4,2,"H, M, MAG, R",[70],3d_Transition_Metal_Alloy_Family
+191,AlCoFeNi,AlCoFeNi,AC,IM,B2,4,1,"H, M, MAG, R",[70],3d_Transition_Metal_Alloy_Family
+192,AlCoFeNiTi,Al0.6CoFeNiTi0.4,SPS,SS+IM,FCC+B2+Unk,5,3,"H, M",[71],3d_Transition_Metal_Alloy_Family
+193,AlCoFeNiTi,AlCoFeNiTi,AC,SS,BCC,5,1,"H, M",[68],3d_Transition_Metal_Alloy_Family
+194,AlCrCuFeMnNi,Al0.3CrCuFeMnNi,AC,SS,BCC+2FCC,6,3,H,[10],3d_Transition_Metal_Alloy_Family
+195,AlCrCuFeMnNi,Al0.5CrCuFeMnNi,AC,SS,2BCC+FCC,6,3,H,[10],3d_Transition_Metal_Alloy_Family
+196,AlCrCuFeMnNi,Al0.8CrCuFeMnNi,AC,SS,2BCC+FCC,6,3,H,[10],3d_Transition_Metal_Alloy_Family
+197,AlCrCuFeMnNi,Al0.8CrCuFeMn1.5Ni,AC,SS,2BCC,6,2,H,[10],3d_Transition_Metal_Alloy_Family
+198,AlCrCuFeMnNi,Al0.8CrCuFe1.5MnNi,AC,SS,2BCC+FCC,6,3,H,[10],3d_Transition_Metal_Alloy_Family
+199,AlCrCuFeMnNi,Al0.8CrCu1.5FeMnNi,AC,SS,BCC+FCC,6,2,H,[10],3d_Transition_Metal_Alloy_Family
+200,AlCrCuFeMnNi,AlCrCuFeMnNi,AC,SS,2BCC,6,2,H,[10],3d_Transition_Metal_Alloy_Family
+201,AlCrCuFeNi,Al0.2CrCuFeNi,AC,SS,FCC,5,1,H,[72],3d_Transition_Metal_Alloy_Family
+202,AlCrCuFeNi,Al0.2CrCuFeNi2,AC,SS,FCC,5,1,H,[73],3d_Transition_Metal_Alloy_Family
+203,AlCrCuFeNi,Al0.4CrCuFeNi,AC,SS,FCC,5,1,H,[72],3d_Transition_Metal_Alloy_Family
+204,AlCrCuFeNi,Al0.4CrCuFeNi2,AC,SS,FCC,5,1,H,[73],3d_Transition_Metal_Alloy_Family
+205,AlCrCuFeNi,Al0.5CrCuFeNi,AC,SS,FCC,5,1,H,[72],3d_Transition_Metal_Alloy_Family
+206,AlCrCuFeNi,Al0.6CrCuFeNi2,AC,SS,FCC,5,1,H,[73],3d_Transition_Metal_Alloy_Family
+207,AlCrCuFeNi,Al0.7CrCuFeNi,AC,SS,FCC,5,1,H,[72],3d_Transition_Metal_Alloy_Family
+208,AlCrCuFeNi,Al0.8CrCuFeNi,AC,SS,BCC+FCC,5,2,H,[72],3d_Transition_Metal_Alloy_Family
+209,AlCrCuFeNi,Al0.8CrCuFeNi2,AC,SS,FCC,5,1,H,[73],3d_Transition_Metal_Alloy_Family
+210,AlCrCuFeNi,Al0.9CrCuFeNi,AC,SS+IM,BCC+FCC+B2,5,3,H,[72],3d_Transition_Metal_Alloy_Family
+211,AlCrCuFeNi,AlCrCu0.5FeNi,AC,SS+IM,BCC+B2,5,2,H,[2],3d_Transition_Metal_Alloy_Family
+212,AlCrCuFeNi,AlCrCuFeNi0.6,AC,SS+IM,FCC+B2,5,2,"H, M",[74],3d_Transition_Metal_Alloy_Family
+213,AlCrCuFeNi,AlCrCuFeNi0.8,AC,SS+IM,FCC+B2,5,2,"H, M",[74],3d_Transition_Metal_Alloy_Family
+214,AlCrCuFeNi,AlCrCuFeNi,AC,SS+IM,FCC+B2,5,2,"H, M",[74],3d_Transition_Metal_Alloy_Family
+215,AlCrCuFeNi,AlCrCuFeNi1.2,AC,SS+IM,FCC+B2,5,2,"H, M",[74],3d_Transition_Metal_Alloy_Family
+216,AlCrCuFeNi,AlCrCuFeNi1.4,AC,SS+IM,FCC+B2,5,2,"H, M",[74],3d_Transition_Metal_Alloy_Family
+217,AlCrCuFeNi,AlCrCuFeNi2,AC ,SS,BCC+FCC,5,2,"H, M",[73],3d_Transition_Metal_Alloy_Family
+218,AlCrCuFeNi,Al1.2CrCuFeNi,AC,SS+IM,BCC+FCC+B2,5,3,H,[72],3d_Transition_Metal_Alloy_Family
+219,AlCrCuFeNi,Al1.2CrCuFeNi2,AC ,SS,BCC+FCC,5,2,H,[73],3d_Transition_Metal_Alloy_Family
+220,AlCrCuFeNi,Al1.5CrCuFeNi,AC,SS+IM,BCC+B2,5,2,H,[72],3d_Transition_Metal_Alloy_Family
+221,AlCrCuFeNi,Al1.8CrCuFeNi,AC,SS+IM,BCC+B2,5,2,H,[72],3d_Transition_Metal_Alloy_Family
+222,AlCrCuFeNi,Al2.0CrCuFeNi,AC,SS+IM,BCC+B2,5,2,H,[72],3d_Transition_Metal_Alloy_Family
+223,AlCrCuFeNi,Al2.2CrCuFeNi,AC,SS+IM,BCC+B2,5,2,H,[72],3d_Transition_Metal_Alloy_Family
+224,AlCrCuFeNi,Al2.5CrCuFeNi,AC,SS+IM,BCC+B2,5,2,H,[72],3d_Transition_Metal_Alloy_Family
+225,AlCrCuFeNiTi,AlCr0.5CuFeNiTi,AC,SS+IM,FCC+B2,6,2,"H, M",[75],3d_Transition_Metal_Alloy_Family
+226,AlCrCuFeNiTi,AlCrCuFeNiTi,AC,SS+IM,FCC+B2,6,2,"H, M",[75],3d_Transition_Metal_Alloy_Family
+227,AlCrCuFeNiTi,AlCr1.5CuFeNiTi,AC,SS+IM,FCC+B2,6,2,"H,M",[75],3d_Transition_Metal_Alloy_Family
+228,AlCrCuFeNiTi,AlCr2CuFeNiTi,AC,SS+IM,FCC+B2,6,2,"H,M",[75],3d_Transition_Metal_Alloy_Family
+229,AlCrCuFeNiTi,AlCr3CuFeNiTi,AC,SS+IM,FCC+B2,6,2,"H,M",[75],3d_Transition_Metal_Alloy_Family
+230,AlCrFeMnNi,Al0.3CrFe1.5MnNi0.5,AC,SS,BCC+FCC,5,2,C,[77],3d_Transition_Metal_Alloy_Family
+231,AlCrFeMnNi,Al0.5CrFe1.5MnNi0.5,AC,SS,BCC,5,1,C,[77],3d_Transition_Metal_Alloy_Family
+232,AlCrFeMnNi,Al0.8CrFe1.5MnNi0.5,AC,SS,BCC,5,1,H,[37],3d_Transition_Metal_Alloy_Family
+233,AlCrFeMnNi,Al1.2CrFe1.5MnNi0.5,AC,SS,BCC,5,1,H,[37],3d_Transition_Metal_Alloy_Family
+234,AlCrFeMoNi,AlCrFeMo0.2Ni,AC,SS+IM,BCC+B2,5,2,"H, M",[79],3d_Transition_Metal_Alloy_Family
+235,AlCrFeMoNi,AlCrFeMo0.5Ni,AC,SS+IM,BCC+B2,5,2,"H, M",[79],3d_Transition_Metal_Alloy_Family
+236,AlCrFeMoNi,AlCrFeMo0.8Ni,AC,IM,B2+σ,5,2,"H, M",[79],3d_Transition_Metal_Alloy_Family
+237,AlCrFeMoNi,AlCrFeMoNi,AC,IM,B2+σ,5,2,"H, M",[79],3d_Transition_Metal_Alloy_Family
+238,AlCrFeNi,Al0.15CrFe1.5Ni0.5,AC,SS,2BCC,4,2,H,[80],3d_Transition_Metal_Alloy_Family
+239,AlCrFeNi,Al0.2CrFe1.5Ni0.5,AC,SS,2BCC,4,2,H,[80],3d_Transition_Metal_Alloy_Family
+240,AlCrFeNi,Al0.3CrFe1.5Ni0.5,AC,IM,B2,4,1,H,[80],3d_Transition_Metal_Alloy_Family
+241,AlCrFeNi,Al0.4CrFe1.5Ni0.5,AC,IM,B2,4,1,H,[80],3d_Transition_Metal_Alloy_Family
+242,AlCrFeNi,AlCrFeNi,AC,SS+IM,BCC+B2,4,2,"H, M",[79],3d_Transition_Metal_Alloy_Family
+243,AlCrFeNiTiV,Al0.5CrFeNiTiV,AC+700C/20h,IM,C15+L21,6,2,H,[37],3d_Transition_Metal_Alloy_Family
+244,CoCrCuFeMn,CoCrCuFeMn,AC+850C/72h,SS,2FCC,5,2,H,[81],3d_Transition_Metal_Alloy_Family
+245,CoCrCuFeMnNi,CoCrCuFeMnNi,AC,SS,FCC,6,1,H,[82],3d_Transition_Metal_Alloy_Family
+246,CoCrCuFeMnNiTiV,CoCrCuFeMnNiTiV,AC,SS+IM,2BCC+FCC+σ+Unk,8,5,M,[5],3d_Transition_Metal_Alloy_Family
+247,CoCrCuFeNi,CoCrCu0.5FeNi,AC,SS,FCC,5,1,C,[83],3d_Transition_Metal_Alloy_Family
+248,CoCrCuFeNi,CoCrCuFeNi,AC,SS,FCC,5,1,"H, M",[9],3d_Transition_Metal_Alloy_Family
+249,CoCrCuFeNiTi,CoCrCuFeNiTi0.5,AC,SS,2FCC,6,2,"DSC, M, MAG",[86],3d_Transition_Metal_Alloy_Family
+250,CoCrCuFeNiTi,CoCrCuFeNiTi0.8,AC,SS+IM,FCC+C14,6,2,"DSC, M, MAG",[86],3d_Transition_Metal_Alloy_Family
+251,CoCrCuFeNiTi,CoCrCuFeNiTi,AC,SS+IM,FCC+C14,6,2,"DSC, M, MAG",[86],3d_Transition_Metal_Alloy_Family
+252,CoCrCuFeNiTi,CoCrCuFeNiTi2.5,AC,IM,Unk,6,≥3,"DSC, M, MAG",[24],3d_Transition_Metal_Alloy_Family
+253,CoCrFeGeMnNi,CoCrFeGeMnNi,AC,SS,BCC+FCC,6,2,H,[82],3d_Transition_Metal_Alloy_Family
+254,CoCrFeMn,Co0.25Cr0.25FeMn,AC,SS,FCC,4,1,MT,[87],3d_Transition_Metal_Alloy_Family
+255,CoCrFeMnNbNi,CoCrFeMnNbNi,AC,SS,FCC,6,1,H,[82],3d_Transition_Metal_Alloy_Family
+256,CoCrFeMnNi,Co0.5CrFeMn1.5Ni,AC+700C/20h,SS+IM,FCC+σ,5,2,H,[37],3d_Transition_Metal_Alloy_Family
+257,CoCrFeMnNi,CoCr0.4Fe8Mn5.4Ni5.2,AC,SS,FCC,5,1,"DSC, MT",[88],3d_Transition_Metal_Alloy_Family
+258,CoCrFeMnNi,CoCr0.75FeMn0.75Ni,AC+700C/20h,SS,FCC,5,1,H,[37],3d_Transition_Metal_Alloy_Family
+259,CoCrFeMnNi,CoCrFe0.5Mn0.5Ni1.5,AC+700C/20h,SS,FCC,5,1,H,[37],3d_Transition_Metal_Alloy_Family
+260,CoCrFeMnNi,CoCrFeMnNi,AC,SS,FCC,5,1,H,[82],3d_Transition_Metal_Alloy_Family
+261,CoCrFeMnNi,CoCr1.25FeMn0.25Ni,AC+700C/20h,SS,FCC,5,1,H,[37],3d_Transition_Metal_Alloy_Family
+262,CoCrFeMnNi,CoCr1.3FeMnNi0.7,AC+1000C/24h+CR(80%)+1100C/1h,SS,FCC,5,1,"H, MT",[91],3d_Transition_Metal_Alloy_Family
+263,CoCrFeMnNi,Co1.4CrFeMnNi,AC+1000C/24h+CR(80%)+1100C/1h,SS,FCC,5,1,"H, MT",[91],3d_Transition_Metal_Alloy_Family
+264,CoCrFeMnNi,Co1.5Cr0.5FeMn0.5Ni,AC+700C/20h,SS,FCC,5,1,H,[37],3d_Transition_Metal_Alloy_Family
+265,CoCrFeMnNiTi,CoCrFeMnNiTi,AC,SS,BCC+FCC,6,2,H,[82],3d_Transition_Metal_Alloy_Family
+266,CoCrFeMnNiV,CoCrFeMnNiV0.25,AC,SS,FCC,6,1,"H, M",[92],3d_Transition_Metal_Alloy_Family
+267,CoCrFeMnNiV,CoCrFeMnNiV0.5,AC,SS+IM,FCC+σ,6,2,"H, M",[92],3d_Transition_Metal_Alloy_Family
+268,CoCrFeMnNiV,CoCrFeMnNiV0.75,AC,SS+IM,FCC+σ,6,2,"H, M",[92],3d_Transition_Metal_Alloy_Family
+269,CoCrFeMnNiV,CoCrFeMnNiV,AC,SS,BCC+FCC,6,2,H,[82],3d_Transition_Metal_Alloy_Family
+270,CoCrFeMoNi,CoCrFeMo0.3Ni,AC,SS,FCC,5,1,"H, M",[38],3d_Transition_Metal_Alloy_Family
+271,CoCrFeMoNi,CoCrFeMo0.5Ni,AM,SS+IM,FCC+σ,5,2,"H, M",[93],3d_Transition_Metal_Alloy_Family
+272,CoCrFeMoNi,CoCrFeMo0.85Ni,AM,SS+IM,FCC+σ+D85,5,3,"H, M",[93],3d_Transition_Metal_Alloy_Family
+273,CoCrFeMoNiTi,Co1.5CrFeMo0.1Ni1.5Ti0.5,AC,SS,FCC,6,1,C,[94],3d_Transition_Metal_Alloy_Family
+274,CoCrFeMoNiTi,Co1.5CrFeMo0.5Ni1.5Ti0.5,AC,SS+IM,FCC+σ,6,2,C,[94],3d_Transition_Metal_Alloy_Family
+275,CoCrFeMoNiTi,Co1.5CrFeMo0.8Ni1.5Ti0.5,AC,SS+IM,FCC+σ,6,2,C,[94],3d_Transition_Metal_Alloy_Family
+276,CoCrFeNbNi,CoCrFeNb0.103Ni,AC,SS+IM,FCC+C14,5,2,MT,[95],3d_Transition_Metal_Alloy_Family
+277,CoCrFeNbNi,CoCrFeNb0.155Ni,AC,SS+IM,FCC+C14,5,2,MT,[95],3d_Transition_Metal_Alloy_Family
+278,CoCrFeNbNi,CoCrFeNb0.206Ni,AC,SS+IM,FCC+C14,5,2,MT,[95],3d_Transition_Metal_Alloy_Family
+279,CoCrFeNbNi,CoCrFeNb0.309Ni,AC,SS+IM,FCC+C14,5,2,MT,[95],3d_Transition_Metal_Alloy_Family
+280,CoCrFeNbNi,CoCrFeNb0.412Ni,AC,SS+IM,FCC+C14,5,2,MT,[95],3d_Transition_Metal_Alloy_Family
+281,CoCrFeNi,CoCrFeNi,AC,SS,2FCC,4,2,C,[83],3d_Transition_Metal_Alloy_Family
+282,CoCrFeNi,CoCr2FeNi,AC+700C/20h,SS+IM,FCC+s,4,2,H,[37],3d_Transition_Metal_Alloy_Family
+283,CoCrFeNiPd,CoCrFeNiPd,AC+CR,SS,FCC,5,1,MAG,[29],3d_Transition_Metal_Alloy_Family
+284,CoCrFeNiPd,CoCrFeNiPd2,AC+CR,SS,FCC,5,1,MAG,[29],3d_Transition_Metal_Alloy_Family
+285,CoCrFeNiTi,Co0.5CrFeNiTi0.5,MA+SPS,SS+IM,FCC+σ,5,2,M,[97],3d_Transition_Metal_Alloy_Family
+286,CoCrFeNiTi,CoCrFeNiTi0.3,AC,SS+IM,FCC+HCP+L12,5,3,M,[38],3d_Transition_Metal_Alloy_Family
+287,CoCrFeNiTi,CoCrFeNiTi,AC,SS,2FCC,5,2,H,[63],3d_Transition_Metal_Alloy_Family
+288,CoCrFeNiTi,Co1.5CrFeNi1.5Ti0.5,AC,SS,FCC,5,1,C,[94],3d_Transition_Metal_Alloy_Family
+289,CoCrFeNiTi,Co1.5CrFeNi1.5Ti,AC+1100C/4h/AC+800C/10h/AC,SS+IM,FCC+D024,5,2,"H, W",[62],3d_Transition_Metal_Alloy_Family
+290,CoCrMnNi,CoCrMnNi,AC+1100/24h/WQ,SS,FCC,4,1,H,[89],3d_Transition_Metal_Alloy_Family
+291,CoCrMnNiV,CoCrMnNiV,AC+1000C/72h,SS+IM,FCC+s,5,2,H,[81],3d_Transition_Metal_Alloy_Family
+292,CoCuFeMnNi,CoCuFeMnNi,AC,SS,FCC,5,1,"H, MT",[99],3d_Transition_Metal_Alloy_Family
+293,CoCuFeMnNiSn,CoCuFeMnNiSn0.03,AC,SS,FCC,6,1,"H, MT",[99],3d_Transition_Metal_Alloy_Family
+294,CoCuFeMnNiSn,CoCuFeMnNiSn0.05,AC,SS+IM,FCC+IM,6,2,"H, MT",[99],3d_Transition_Metal_Alloy_Family
+295,CoCuFeMnNiSn,CoCuFeMnNiSn0.08,AC,SS+IM,FCC+IM,6,2,"H, MT",[99],3d_Transition_Metal_Alloy_Family
+296,CoCuFeMnNiSn,CoCuFeMnNiSn0.1,AC,SS+IM,FCC+IM,6,2,"H, MT",[99],3d_Transition_Metal_Alloy_Family
+297,CoCuFeMnNiSn,CoCuFeMnNiSn0.2,AC,SS+IM,FCC+IM,6,2,"H, MT",[99],3d_Transition_Metal_Alloy_Family
+298,CoCuFeNi,CoCuFeNi,MA+SPS,SS,2FCC,4,2,H,[3],3d_Transition_Metal_Alloy_Family
+299,CoCuFeNiSn,CoCuFeNiSn0.04,AC,SS+IM,FCC+IM,5,2,MT,[100],3d_Transition_Metal_Alloy_Family
+300,CoCuFeNiSn,CoCuFeNiSn0.05,AC,SS+IM,FCC+IM,5,2,MT,[100],3d_Transition_Metal_Alloy_Family
+301,CoCuFeNiSn,CoCuFeNiSn0.07,AC,SS+IM,FCC+IM,5,2,MT,[100],3d_Transition_Metal_Alloy_Family
+302,CoCuFeNiSn,CoCuFeNiSn0.1,AC,SS+IM,FCC+IM,5,2,MT,[100],3d_Transition_Metal_Alloy_Family
+303,CoCuFeNiSn,CoCuFeNiSn0.2,AC,SS+IM,FCC+IM,5,2,MT,[100],3d_Transition_Metal_Alloy_Family
+304,CoCuFeNiSn,CoCuFeNiSn0.5,AC,SS+IM,FCC+IM,5,2,MT,[100],3d_Transition_Metal_Alloy_Family
+305,CoCuFeNiTi,CoCuFeNiTi,AC,SS,FCC,5,1,MT,[68],3d_Transition_Metal_Alloy_Family
+306,CoCuFeNiV,CoCuFeNiV,AC,SS,2FCC,5,2,MT,[24],3d_Transition_Metal_Alloy_Family
+307,CoFeMnMoNi,CoFeMnMoNi,AC+1000C/72h,SS+IM,FCC+D85,5,2,MT,[81],3d_Transition_Metal_Alloy_Family
+308,CoFeMnNi,CoFeMnNi,AC+1100/24h/WQ,SS,FCC,4,1,H,[89],3d_Transition_Metal_Alloy_Family
+309,CoFeMnNiV,CoFeMnNiV,AC+1000C/72h,SS+IM,FCC+s,5,2,H,[81],3d_Transition_Metal_Alloy_Family
+310,CoFeMnTiVZr,CoFeMnTi0.5VZr,AC,IM,C14,6,1,HY,[101],3d_Transition_Metal_Alloy_Family
+311,CoFeMnTiVZr,CoFeMnTiV0.4Zr,AC,IM,C14,6,1,HY,[101],3d_Transition_Metal_Alloy_Family
+312,CoFeMnTiVZr,CoFeMnTiV0.7Zr,AC,IM,C14,6,1,HY,[101],3d_Transition_Metal_Alloy_Family
+313,CoFeMnTiVZr,CoFeMnTiVZr0.4,AC,IM,C14,6,1,HY,[101],3d_Transition_Metal_Alloy_Family
+314,CoFeMnTiVZr,CoFeMnTiVZr0.7,AC,IM,C14,6,1,HY,[101],3d_Transition_Metal_Alloy_Family
+315,CoFeMnTiVZr,CoFeMnTiVZr,AC,IM,C14,6,1,HY,[101],3d_Transition_Metal_Alloy_Family
+316,CoFeMnTiVZr,CoFeMnTiVZr1.3,AC,IM,C14,6,1,HY,[101],3d_Transition_Metal_Alloy_Family
+317,CoFeMnTiVZr,CoFeMnTiVZr1.6,AC,IM,C14,6,1,HY,[101],3d_Transition_Metal_Alloy_Family
+318,CoFeMnTiVZr,CoFeMnTiVZr2,AC,IM,C14,6,1,HY,[101],3d_Transition_Metal_Alloy_Family
+319,CoFeMnTiVZr,CoFeMnTiVZr2.3,AC,IM,C14,6,1,HY,[101],3d_Transition_Metal_Alloy_Family
+320,CoFeMnTiVZr,CoFeMnTiVZr2.6,AC,IM,C14,6,1,HY,[101],3d_Transition_Metal_Alloy_Family
+321,CoFeMnTiVZr,CoFeMnTiVZr3,AC,IM,C14,6,1,HY,[101],3d_Transition_Metal_Alloy_Family
+322,CoFeMnTiVZr,CoFeMnTiV1.3Zr,AC,IM,C14,6,1,HY,[101],3d_Transition_Metal_Alloy_Family
+323,CoFeMnTiVZr,CoFeMnTiV1.6Zr,AC,IM,C14,6,1,HY,[101],3d_Transition_Metal_Alloy_Family
+324,CoFeMnTiVZr,CoFeMnTiV2Zr,AC,IM,C14,6,1,HY,[101],3d_Transition_Metal_Alloy_Family
+325,CoFeMnTiVZr,CoFeMnTiV2.3Zr,AC,IM,C14,6,1,HY,[101],3d_Transition_Metal_Alloy_Family
+326,CoFeMnTiVZr,CoFeMnTiV2.6Zr,AC,IM,C14,6,1,HY,[101],3d_Transition_Metal_Alloy_Family
+327,CoFeMnTiVZr,CoFeMnTiV3Zr,AC,IM,C14,6,1,HY,[101],3d_Transition_Metal_Alloy_Family
+328,CoFeMnTiVZr,CoFeMnTi1.5VZr,AC,IM,C14,6,1,HY,[101],3d_Transition_Metal_Alloy_Family
+329,CoFeMnTiVZr,CoFeMnTi2VZr,AC,IM,C14,6,1,HY,[101],3d_Transition_Metal_Alloy_Family
+330,CoFeMnTiVZr,CoFeMnTi2.5VZr,AC,IM,C14,6,1,HY,[101],3d_Transition_Metal_Alloy_Family
+332,CrCuFeMnNi,Cr0.5CuFeMn0.5Ni,AC,SS,2FCC,5,2,HY,[102],3d_Transition_Metal_Alloy_Family
+333,CrCuFeMnNi,Cr0.5CuFeMnNi0.5,AC,SS,BCC+2FCC,5,3,HY,[102],3d_Transition_Metal_Alloy_Family
+334,CrCuFeMnNi,CrCu0.5FeMnNi,AC,SS,2FCC,5,2,HY,[102],3d_Transition_Metal_Alloy_Family
+335,CrCuFeMnNi,CrCuFe0.5Mn0.5Ni,AC,SS,BCC+2FCC,5,3,HY,[102],3d_Transition_Metal_Alloy_Family
+336,CrCuFeMnNi,CrCuFe0.5MnNi0.5,AC,SS,BCC+FCC,5,2,HY,[102],3d_Transition_Metal_Alloy_Family
+337,CrCuFeMnNi,CrCuFeMnNi,AC,SS,BCC+2FCC,5,3,H,[10],3d_Transition_Metal_Alloy_Family
+338,CrCuFeMnNi,CrCuFeMn2Ni2,AC,SS,FCC,5,1,H,[102],3d_Transition_Metal_Alloy_Family
+339,CrCuFeMnNi,Cr2CuFe2MnNi,AC,SS,BCC+2FCC,5,3,H,[102],3d_Transition_Metal_Alloy_Family
+340,CrFeMnNi,Cr0.66FeMnNi,AC+1200C/24h/WQ,SS,FCC,4,1,MT,[103],3d_Transition_Metal_Alloy_Family
+341,CrFeMnNi,CrFe1.5MnNi0.5,AC,SS+IM,BCC+s,4,2,C,[77],3d_Transition_Metal_Alloy_Family
+342,CrFeMnNiTi,CrFeMnNiTi,AC+1000C/72h,SS+IM,A12+BCC+C14+Unk,5,4,H,[81],3d_Transition_Metal_Alloy_Family
+343,AlCrMoSiTi,AlCrMoSiTi,AC,IM,B2+D8m,5,2,H,[104],Refractory_Metal_Alloy_Family
+344,AlHfNbTaTiZr,Al0.4Hf0.6NbTaTiZr,AC+HIP/1200C/207MPa/2h+1200C/24h/FC,SS,BCC,6,1,"H, M",[105],Refractory_Metal_Alloy_Family
+345,AlMoNbTaTiZr,AlMo0.5NbTa0.5TiZr,AC+HIP/1400C/207MPa/2h+1400C/24h/FC,SS,2BCC,6,2,"D, H, M",[106],Refractory_Metal_Alloy_Family
+346,AlNbTaTiV,Al0.25NbTaTiV,AC,SS,BCC,5,1,M,[109],Refractory_Metal_Alloy_Family
+347,AlNbTaTiV,Al0.5NbTaTiV,AC,SS,BCC,5,1,M,[109],Refractory_Metal_Alloy_Family
+348,AlNbTaTiV,AlNbTaTiV,AC,SS,BCC,5,1,M,[109],Refractory_Metal_Alloy_Family
+349,AlNbTaTiVZr,Al0.3NbTa0.8Ti1.4V0.2Zr1.3,AC+HIP/1200C/207MPa/2h+1200C/24h/FC,SS,BCC,6,1,M,[106],Refractory_Metal_Alloy_Family
+350,AlNbTaTiVZr,Al0.5NbTa0.8Ti1.5V0.2Zr,AC+HIP/1200C/207MPa/2h+1200C/24h/FC,SS,2BCC,6,2,M,[106],Refractory_Metal_Alloy_Family
+351,AlNbTaTiZr,Al0.3NbTaTi1.4Zr1.3,AC+HIP/1200C/207MPa/2h+1200C/24h/FC,SS,2BCC,5,2,M,[106],Refractory_Metal_Alloy_Family
+352,AlNbTaTiZr,AlNb1.5Ta0.5Ti1.5Zr0.5,AC+HIP/1400C/207MPa/2h+1400C/24h/FC,SS,BCC,5,1,M,[106],Refractory_Metal_Alloy_Family
+353,AlTiVYZr,AlTiVYZr,AC,IM,Unk,5,≥3,M,[24],Refractory_Metal_Alloy_Family
+354,CrMoNbTaTiZr,CrMo0.5NbTa0.5TiZr,AC,SS+IM,2BCC+C15,6,3,"D, H, M",[110],Refractory_Metal_Alloy_Family
+355,CrNbTiVZr,CrNbTiVZr,AC+HIP/1200C/207MPa/2h+1200C/24h/FC,SS+IM,BCC+C15,5,2,"D, H",[111],Refractory_Metal_Alloy_Family
+356,CrNbTiZr,CrNbTiZr,AC+HIP/1200C/207MPa/2h+1200C/24h/FC,SS+IM,BCC+C15,4,2,"D, H",[111],Refractory_Metal_Alloy_Family
+357,HfNbTaTiZr,HfNbTaTiZr,AC+HIP/1200C/207MPa/3h,SS,BCC+Unk,5,2,"D, H, M",[112],Refractory_Metal_Alloy_Family
+358,HfNbTiZr,HfNbTiZr,AC,SS,BCC,4,1,"DSC, MT",[114],Refractory_Metal_Alloy_Family
+359,MoNbTaVW,MoNbTaVW,AC,SS,BCC,5,1,"D, H",[115],Refractory_Metal_Alloy_Family
+360,MoNbTaW,MoNbTaW,AC,SS,BCC,4,1,"D, H",[115],Refractory_Metal_Alloy_Family
+361,MoNbTiVZr,MoNbTiV0.25Zr,AC,SS,2BCC,5,2,"M, MAG",[45],Refractory_Metal_Alloy_Family
+362,MoNbTiVZr,MoNbTiV0.5Zr,AC,SS,2BCC,5,2,"M, MAG",[45],Refractory_Metal_Alloy_Family
+363,MoNbTiVZr,MoNbTiV0.75Zr,AC,SS,2BCC,5,2,"M, MAG",[45],Refractory_Metal_Alloy_Family
+364,MoNbTiVZr,MoNbTiVZr,AC,SS,BCC+Unk,5,2,"M, MAG",[45],Refractory_Metal_Alloy_Family
+365,MoNbTiVZr,MoNbTiV1.5Zr,AC,SS,2BCC,5,2,"M, MAG",[45],Refractory_Metal_Alloy_Family
+366,MoNbTiVZr,MoNbTiV2Zr,AC,SS,2BCC,5,2,"M, MAG",[45],Refractory_Metal_Alloy_Family
+367,MoNbTiVZr,MoNbTiV3Zr,AC,SS,2BCC,5,2,"M, MAG",[45],Refractory_Metal_Alloy_Family
+368,NbTaTiV,NbTaTiV,AC,SS,BCC,4,1,M,[109],Refractory_Metal_Alloy_Family
+369,NbTiVZr,NbTiVZr,AC+HIP/1200C/207MPa/2h+1200C/24h/FC,SS,BCC,4,1,"D, H",[111],Refractory_Metal_Alloy_Family
+370,NbTiVZr,NbTiV2Zr,AC+HIP/1200C/207MPa/2h+1200C/24h/FC,SS,3BCC,4,3,"D, H",[111],Refractory_Metal_Alloy_Family
+371,AlCuLiMgSn,AlCu0.5Li0.5MgSn0.2,AC,SS+IM,A5+D02+2IM,5,4,"D, M",[117],LightMetalAlloyFamily
+372,AlCuLiMgZn,AlCu0.2Li0.5MgZn0.5,AC,IM,IM,5,1,"D, M",[117],LightMetalAlloyFamily
+373,AlCuLiMgZn,Al16CuLiMgZn,AC,SS+IM,FCC+C16+IM,5,3,"D, M",[117],LightMetalAlloyFamily
+374,AlLiMgScTi,AlLiMg0.5ScTi1.5,MA+CP,SS,FCC,5,1,H,[118],LightMetalAlloyFamily
+375,AlLiMgSnZn,AlLi0.5MgSn0.2Zn0.5,AC,SS+IM,FCC+D02+2IM,5,4,"D, M",[117],LightMetalAlloyFamily
+376,AlLiMgSnZn,AlLiMgSnZn,AC,SS+IM,A5+FCC+HCP+D02+IM,5,5,"D, M",[117],LightMetalAlloyFamily
+377,AlLiMgSnZn,Al16LiMgSnZn,AC,SS+IM,A5+FCC+D02+IM,5,4,"D, M",[117],LightMetalAlloyFamily
+378,DyGdLuTbTm,DyGdLuTbTm,AC,SS,HCP+Unk,5,2,"D, M",[119],4fTransitionMetalAlloyFamily
+379,DyGdLuTbY,DyGdLuTbY,AC,SS,HCP+Unk,5,2,"D, M",[119],4fTransitionMetalAlloyFamily
+380,AlBCoCrCuFeNi,Al0.5B0.2CoCrCuFeNi,AC,SS+IM,FCC+IM,7,2,"M, W",[13],BorideCarbideNitride_Metal_Alloy_Family
+381,AlBCoCrCuFeNi,Al0.5B0.6CoCrCuFeNi,AC,SS+IM,FCC+IM,7,2,"M, W",[13],BorideCarbideNitride_Metal_Alloy_Family
+382,AlBCoCrCuFeNi,Al0.5BCoCrCuFeNi,AC,IM,L12+IM,7,2,"M, W",[13],BorideCarbideNitride_Metal_Alloy_Family
+383,AlCCoCrFeNi,AlC0.1CoCrFeNi,AC,SS+IM,BCC+IM,6,2,M,[58],BorideCarbideNitride_Metal_Alloy_Family
+384,AlCCoCrFeNi,AlC0.2CoCrFeNi,AC,SS+IM,BCC+IM,6,2,M,[58],BorideCarbideNitride_Metal_Alloy_Family
+385,AlCCoCrFeNi,AlC0.3CoCrFeNi,AC,SS+IM,BCC+IM,6,2,M,[58],BorideCarbideNitride_Metal_Alloy_Family
+386,AlCCoCrFeNi,AlC0.4CoCrFeNi,AC,SS+IM,BCC+IM,6,2,M,[58],BorideCarbideNitride_Metal_Alloy_Family
+387,AlCCoCrFeNi,AlC0.5CoCrFeNi,AC,SS+IM,BCC+IM,6,2,M,[58],BorideCarbideNitride_Metal_Alloy_Family
+388,AlCCoCrFeNi,AlCCoCrFeNi,AC,SS+IM,BCC+Graphite+IM,6,3,M,[58],BorideCarbideNitride_Metal_Alloy_Family
+389,AlCCoCrFeNi,AlC1.5CoCrFeNi,AC,SS+IM,BCC+Graphite+IM,6,3,M,[58],BorideCarbideNitride_Metal_Alloy_Family
+390,AlCuNi,AlCuNi,AC,SS+IM,FCC+B2,3,2,M,[25],Other_CCA_Families
+391,BeCuNiTiVZr,BeCuNiTiVZr,AC,IM,Unk,6,≥2,M,[24],Other_CCA_Families
+392,CoCrNi,CoCrNi,AC+1200/24h/WQ,SS,FCC,3,1,H,[89],Other_CCA_Families
+393,CoCuHfTiZr,CoCuHfTiZr,MS,SS,AM,5,1,"DSC, M",[120],Other_CCA_Families
+394,CoFeNi,CoFeNi,MA+SPS,SS,FCC,3,1,H,[3],Other_CCA_Families
+395,CoFeNiSi,CoFeNiSi0.25,AC,SS,FCC,4,1,"H, M, MAG, R",[70],Other_CCA_Families
+396,CoFeNiSi,CoFeNiSi0.5,AC,SS+IM,FCC+Ni3Si,4,2,"H, M, MAG, R",[70],Other_CCA_Families
+397,CoFeNiSi,CoFeNiSi0.75,AC,SS+IM,FCC+Ni3Si,4,2,"H, M, MAG, R",[70],Other_CCA_Families
+398,CoMnNi,CoMnNi,AC+1100/24h/WQ,SS,FCC,3,1,H,[89],Other_CCA_Families
+399,CrFeNi,CrFeNi,AC+1200/24h/WQ,SS,FCC,3,1,H,[89],Other_CCA_Families
+400,CuFeHfTiZr,CuFeHfTiZr,MS,SS,AM,5,1,"DSC, M",[120],Other_CCA_Families
+401,CuHfNiTiZr,CuHfNiTiZr,MS,SS,AM,5,1,"DSC, M",[120],Other_CCA_Families
+402,FeMnNi,FeMnNi,AC+1100/24h/WQ,SS,FCC,3,1,H,[89],Other_CCA_Families
+403,MoPdRhRu,MoPdRhRu,AC+1700C/20h,SS,HCP,4,1,H,[121],Other_CCA_Families
+404,MoRhRu,MoRhRu,AC+1700C/20h,SS,HCP,3,1,H,[121],Other_CCA_Families
